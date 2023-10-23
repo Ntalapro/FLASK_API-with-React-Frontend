@@ -1,4 +1,4 @@
-Trivia App
+#Trivia App
 
 This project is a trivia game app for Udacity students and stuff. Users are able to add and delete questions, veiw questions, search for questions from different categories, and play a quiz game. By completing this project, students learn and apply their skills structuring and implementing well formatted API endpoints that leverage knowledge of HTTP and API development best practices.
 
